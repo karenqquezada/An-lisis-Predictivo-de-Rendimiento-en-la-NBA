@@ -2,6 +2,16 @@
   <img src="https://github.com/karenqquezada/An-lisis-Predictivo-de-Rendimiento-en-la-NBA/blob/main/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" width="350" alt="NBA Logo">
 </p>
 
+<h1 align="center">🏀 Análisis de Rendimiento en la NBA</h1>
+
+<p align="center">
+  <em>Proyecto de análisis de rendimiento y métricas de equipos y jugadores de la NBA, utilizando Python, SQL Server y Power BI.</em>
+</p>
+
+---
+
+
+
 # Análisis Predictivo de Rendimiento en la NBA
 
 Proyecto Final – Data Analytics
