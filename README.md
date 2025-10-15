@@ -106,16 +106,11 @@ Incluye segmentadores, bookmarks y actualización automática.
 
 ---
 
-## Flujo de Datos
-CSV (Kaggle)
-↓
-🐍 Python – Limpieza y Transformación (ETL)
-↓
-🗄️ SQL Server – Almacenamiento (Modelo Estrella)
-↓
-📈 Power BI – Dashboard Interactivo
-↓
-⚙️ Actualización automática de datos y KPIs
----
+## Flujo de Datos del Proyecto NBA
+
+| 🔹 **Fuente de Datos** | 🧩 **Procesamiento (ETL)** | 🗄️ **Almacenamiento** | 📊 **Visualización** | ⚙️ **Automatización** |
+|:----------------------:|:--------------------------:|:----------------------:|:---------------------:|:---------------------:|
+| 📁 **CSV (Kaggle)** | 🐍 **Python – Limpieza y Transformación (ETL)** | 💾 **SQL Server – Modelo Estrella** | 📈 **Power BI – Dashboard Interactivo** | 🔁 **Actualización automática de datos y KPIs** |
+
 
 
