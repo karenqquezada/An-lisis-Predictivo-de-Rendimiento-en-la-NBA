@@ -95,7 +95,7 @@ Incluye segmentadores, bookmarks y actualización automática.
 
 ---
 
-## 🧠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 | Etapa | Herramientas |
 |--------|----------------|
 | Limpieza y ETL | Python (Pandas, NumPy) |
@@ -106,4 +106,16 @@ Incluye segmentadores, bookmarks y actualización automática.
 
 ---
 
-## 🔄 Flujo de Datos
+## Flujo de Datos
+CSV (Kaggle)
+↓
+🐍 Python – Limpieza y Transformación (ETL)
+↓
+🗄️ SQL Server – Almacenamiento (Modelo Estrella)
+↓
+📈 Power BI – Dashboard Interactivo
+↓
+⚙️ Actualización automática de datos y KPIs
+---
+
+
