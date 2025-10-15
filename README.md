@@ -26,7 +26,7 @@ Evaluar y predecir cómo el **rendimiento de los jugadores impacta en la probabi
 
 ---
 
-## 👥 Integrantes del Equipo
+##  Integrantes del Equipo
 - **Soto Quezada, Karen Quetzali** – Data Analyst   
 - **González Pacheco, Esther Isabel** – Data Analyst  
 
