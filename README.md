@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://github.com/karenqquezada/An-lisis-Predictivo-de-Rendimiento-en-la-NBA/blob/main/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" width="350" alt="NBA Logo">
+  <img src="https://github.com/karenqquezada/An-lisis-Predictivo-de-Rendimiento-en-la-NBA/blob/main/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" width="300" alt="NBA Logo">
 </p>
 
 <h1 align="center">Análisis de Rendimiento en la NBA</h1>
 
 <p align="center">
   <em>Proyecto de análisis de rendimiento y métricas de equipos y jugadores de la NBA, utilizando Python, SQL Server y Power BI.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ---
