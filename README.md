@@ -2,8 +2,6 @@
   <img src="https://github.com/karenqquezada/An-lisis-Predictivo-de-Rendimiento-en-la-NBA/blob/main/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" width="350" alt="NBA Logo">
 </p>
 
-# 🏀 Análisis de Rendimiento en la NBA
-
 # Análisis Predictivo de Rendimiento en la NBA
 
 Proyecto Final – Data Analytics
