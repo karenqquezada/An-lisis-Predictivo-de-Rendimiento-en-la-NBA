@@ -28,16 +28,14 @@ La **NBA** es una liga profesional de baloncesto que genera una gran cantidad de
 Analizar esta información permite identificar **métricas clave que impactan el rendimiento colectivo de los equipos** y mejorar las estrategias de juego.
 
 ###  Descripción del Problema
-Actualmente, los equipos tienen dificultades para determinar de forma objetiva **qué jugadores y estadísticas influyen más en la probabilidad de victoria**.  
-Esto limita la capacidad de los entrenadores y analistas para tomar decisiones tácticas basadas en datos.
+Analizar el impacto de los equipos de la NBA en el resultado de los partidos. Identificando patrones que permitan analizar el rendimiento y apoyar decisiones estratégicas basadas en datos.
 
 ###  Objetivo Principal
-Evaluar y predecir cómo el **rendimiento de los jugadores impacta en la probabilidad de victoria del equipo**, identificando las **métricas estadísticas más relevantes**.
+Atendiendo a las necesidades del inversor deportivo interesado en adquirir o patrocinar un equipo profesional, que solicita un análisis de desempeño y proyección de equipos; considerando las variables claves del jugador como factor ccomplementario.
 
 ###  Resultados Esperados e Impacto
 - Dashboard interactivo con **KPIs de jugadores y equipos**.  
-- **Modelo predictivo (Regresión Lineal/Logística)** que estime la probabilidad de victoria.  
-- Identificación de **jugadores y métricas clave** para la toma de decisiones estratégicas.  
+- Identificación de **equipos y jugadores con métricas clave** para la toma de decisiones estratégicas.  
 - **Mejora en la toma de decisiones** basada en evidencia estadística.
 
 ---
@@ -55,12 +53,12 @@ Los datos provienen del dataset público de Kaggle:
 🔗 [Basketball Dataset (NBA) – Wyattowalsh](https://www.kaggle.com/datasets/wyattowalsh/basketball)
 
 Principales archivos:
-- `common_player_info.csv`: Información general de jugadores.  
-- `draft_combine_stats.csv`: Resultados físicos y técnicos del Draft Combine.  
-- `draft_history.csv`: Historial de selecciones del Draft.  
-- `game.csv`: Resultados y estadísticas de partidos.  
-- `team.csv`, `team_details.csv`, `team_history.csv`: Datos de equipos.  
-- `other_stats.csv`, `play_by_play.csv`: Estadísticas avanzadas y jugadas.  
+- `dim_jugador.csv`: Información general de jugadores.  
+- `dim_timepo.csv`: Resultados estacionales.  
+- `dim_estadio.csv`: Historial de selecciones del estadio.  
+- `fact_partidos.csv`: Resultados y estadísticas de partidos.  
+- `dim_team.csv`: Datos de equipos.  
+- `play_by_play.csv`: Estadísticas avanzadas y jugadas.  
 
 ---
 
@@ -91,12 +89,6 @@ Principales archivos:
 
 ---
 
-##  Modelado Predictivo
-- Aplicación de **Regresión Lineal y Logística** con *Scikit-learn*.  
-- Identificación de variables con mayor influencia en la probabilidad de victoria.  
-- Simulación de escenarios de rendimiento y comparación de resultados.
-
----
 
 ## Visualización de Resultados
 Dashboard interactivo en **Power BI** con indicadores como:
